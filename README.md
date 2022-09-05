@@ -40,7 +40,7 @@
 
 🎯 Dificuldades 
 ````
-As maiores dificuldades foram de usar media queries para responsividade, centralizar alguns elementos e fazer a troca das imagens por meio do DOM no javascript .  
+As maiores dificuldades foram de usar media queries para responsividade, centralizar alguns elementos e fazer a troca das imagens de acordo com o click por meio do DOM no javascript .  
 ````
 📝 Aprendizado 
 ````
