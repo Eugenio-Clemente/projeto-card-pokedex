@@ -1,4 +1,4 @@
-# Projeto pokédex.  🚀
+# Projeto Card pokédex.  🚀
 
 ### Projeto realizado no Curso DevQuest. Proposto dos professores Roberto Dias e Ricardo Dias [(Dev em dobro)](https://www.instagram.com/devemdobro/) professores do curso DevQuest.
 
